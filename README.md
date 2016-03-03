@@ -1,6 +1,6 @@
 # planet_ball
 
-Trabalho desenvolvido em dupla para a cadeira de laboratório de programação A do primeiro semestre de Sistemas de Informação da UFSM.
+Trabalho desenvolvido para a cadeira de laboratório de programação I, do primeiro semestre de Sistemas de Informação da UFSM.
 
 **Foi utilizado:**
 
@@ -8,7 +8,7 @@ Trabalho desenvolvido em dupla para a cadeira de laboratório de programação A
 * Biblioteca gráfica - Allegro 5
 
 
-*Para compilar é só executar o arquivo sh comp da raiz
+*Para compilar é necessário ter o allegro instalado e depois executar o arquivo sh comp da raiz
 
 
 
