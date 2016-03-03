@@ -1,6 +1,9 @@
-# planet_ball
+# Planet ball
 
 Trabalho desenvolvido para a cadeira de laboratório de programação I, do primeiro semestre de Sistemas de Informação da UFSM.
+
+
+![alt tag](http://i.imgur.com/9vvh4Yb.png)
 
 **Foi utilizado:**
 
